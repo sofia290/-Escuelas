@@ -1,7 +1,7 @@
 # -Escuelas
 Informative video of the application in spanish:  https://www.youtube.com/watch?v=W2UFHnc__50&t=12s
 
-##Autores 
+Autores 
 welcome to the project “ +Escuelas, We are very satisfied with what they have entered the repository with many desire of collaborating. We are María (@mariaeugeniaromero) and sofía (me), we created a prototype of the app with the platform of development “app inventor “(poner link) in a community called “Girls in technology”.
 Licencia 
 This project is under the License opened, because we decide it would be a good idea that the taxpayers have access to the whole project and could decide about the changes before approved.
