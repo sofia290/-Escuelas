@@ -2,8 +2,8 @@
 [Informative video of the application in spanish:] (https://www.youtube.com/watch?v=W2UFHnc__50&t=12s)
 
 ## Authors 
-Welcome to the project “ +Escuelas, we are very satisfied with what they have entered the repository with many desire of collaborating. We are María (@mariaeugeniaromero) and sofía (me), we created a prototype of the app with the platform of development “app inventor “(http://appinventor.mit.edu/explore/) in a community called [“chicas en tecnología”] (https://www.chicasentecnologia.org/) .
-## LicencE
+Welcome to the project “ +Escuelas, we are very satisfied with what they have entered the repository with many desire of collaborating. We are María (@mariaeugeniaromero) and sofía (me), we created a prototype of the app with the platform of development “app inventor “(http://appinventor.mit.edu/explore/) in a community called [“chicas en tecnología”](https://www.chicasentecnologia.org/) .
+## Licence
 This project is under the License opened, because we decide it would be a good idea that the taxpayers have access to the whole project and could decide about the changes before approved.
 ## Expressions of gratitude
 In Argentina, the schools have the challenge to improve the relationship between the traditional education and the new technologies of information.The 80% of students use the red to make homework. In this years more teens leave their studies to take care of their children.The 15% of borns are of teen mothers between 15 and 17 years.
